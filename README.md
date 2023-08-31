@@ -12,3 +12,19 @@ To use linear regression and it variants to obtain a forecast of the next month'
 
 ## Dataset Download
 Link to download the dataset for the project: https://bradfordtuckfield.com/carsales.csv 
+
+## Environment Configuration 
+- Installing virtual Env
+    - pip install pipenv 
+
+- Installing Packages
+    - pipenv install jupyter notebook pandas numpy matplotlib seaborn scikit-learn  
+
+- Starting/Activating Virtual Env
+    - pipenv shell 
+
+- Starting Notebook
+    - jupyter-notebook 
+
+- Deactiviting Virtual Env 
+    - exit
