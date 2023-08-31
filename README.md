@@ -9,3 +9,6 @@ Ordering the right number of cars is important. But what is the right number? Th
 
 ## Objective
 To use linear regression and it variants to obtain a forecast of the next month's demand. 
+
+## Dataset Download
+Link to download the dataset for the project: https://bradfordtuckfield.com/carsales.csv 
